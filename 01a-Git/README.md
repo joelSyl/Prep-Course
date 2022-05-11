@@ -74,7 +74,6 @@ La mayoría de las operaciones en Git sólo necesitan archivos y recursos locale
 Todo en Git es verificado mediante una suma de comprobación (**checksum** en inglés) antes de ser almacenado, y es identificado a partir de ese momento mediante dicha suma. **Esto significa que es imposible cambiar los contenidos de cualquier archivo o directorio sin que Git lo sepa.**
 
 El mecanismo que usa Git para generar esta suma de comprobación se conoce como hash SHA-1. Se trata de una cadena de 40 caracteres hexadecimales (0-9 y a-f), y se calcula en base a los contenidos del archivo o estructura de directorios. Un hash SHA-1 tiene esta pinta:
-
 ```shell
 24b9da6552252987aa493b52f8696cd6d3b00373
 ```
