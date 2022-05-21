@@ -1,0 +1,5 @@
+ * Variables: Es un espacio de memoria
+ * Strings: Son puras letras
+ * Funciones (argumentos, `return`): Define un proceso que sepuede reutilizar, los argumentos son atributos que requiere, y return es la respuesta que devuelve. 
+ * Declaraciones `if`: son condiciones, que se necesitan para ejecutar.
+ * Valores booleanos (`true`, `false`): respuesta a una condicion que puede ser verdadero o falso 
