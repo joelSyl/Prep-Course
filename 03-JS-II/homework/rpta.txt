@@ -1,0 +1,5 @@
+respuesta
+for: Es un bucle, que repite n veces mientras, tiene inicio y fin, en un incremento determinado.
+`&&`: Es un operador logico, que necesita que ambos valores sean verdaderos para que sea Verdad, de lo contrario siempre sera falso.
+`||`: Permite validar los valores por separado, si uno es verdadero pasa a ser verdad, para que salga falso todos deben ser falsos.
+`!`: Es una negacion, 
