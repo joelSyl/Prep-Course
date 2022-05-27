@@ -1,0 +1,1 @@
+arrays: Es un almacen de datos, como un estante que tiene casilleros en donde podemos guardar ordenadamente, y tener acceso a cada dato almacenado.
